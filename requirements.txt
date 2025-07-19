@@ -1,0 +1,3 @@
+azure-functions
+yfinance
+azure-storage-blob
